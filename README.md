@@ -1,2 +1,2 @@
 # Telecom_Customer-Churn-Prediction
-Telecom Customers Churn Prediction 
+Telecom Customers Churn Prediction based on some features that some of them describe the customer personal information, services provided to the customer ... 
